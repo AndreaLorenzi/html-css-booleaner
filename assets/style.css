@@ -9,6 +9,20 @@
     height: 200px;
     width: 200px;
 }
+
 strong{
     color: rgb(0, 208, 255);
+}
+
+#data{
+    font-size: 13px;
+}
+
+.photo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+.evidenziatore{
+    background-color: yellow;
 }
