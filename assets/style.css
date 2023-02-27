@@ -26,3 +26,20 @@ strong{
 .evidenziatore{
     background-color: yellow;
 }
+
+ul{
+   
+    padding-left: 10px;
+}
+
+#thlungo{
+    width: 50%;
+}
+
+#id1{
+    background-color: rgb(0, 162, 255);
+}
+
+.seconda-quarta{
+    background-color: aqua;
+}
