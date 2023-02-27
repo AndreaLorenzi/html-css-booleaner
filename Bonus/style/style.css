@@ -8,16 +8,18 @@
 #slogan{
     height: 200px;
     width: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 main{
-   margin-left: 15%;
-   margin-right: 15%;
+   margin-left: 20%;
+   margin-right: 20%;
 }
 
 aside{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 strong{
