@@ -46,16 +46,18 @@ ul{
     border-radius: 2px;
 }
 
-h3{
+#ultimo{
     color: darkgrey;
+    margin-bottom: 10px;
 }
+
 #monitor{
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     width: 200px;
     height: 200px;
     color: white;
-    
+    margin-bottom: 5px;
 }
 
 #graph{
@@ -64,6 +66,5 @@ h3{
     width: 200px;
     height: 200px;
     color: white;
-    
 }
 
